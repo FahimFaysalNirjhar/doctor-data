@@ -8,7 +8,7 @@
     "experience": "12 Years",
     "registrationNumber": "BMDC-12345",
     "workingAt": "Dhaka Medical College Hospital",
-    "availabilityDate": "2026-03-01",
+    "availabilityDays": ["Monday", "Wednesday", "Friday"],
     "consultationFee": 800
   },
   {
@@ -20,7 +20,7 @@
     "experience": "10 Years",
     "registrationNumber": "BMDC-23456",
     "workingAt": "Square Hospital Ltd.",
-    "availabilityDate": "2026-03-02",
+    "availabilityDays": ["Tuesday", "Thursday", "Saturday"],
     "consultationFee": 900
   },
   {
@@ -32,7 +32,7 @@
     "experience": "15 Years",
     "registrationNumber": "BMDC-34567",
     "workingAt": "Apollo Hospitals Dhaka",
-    "availabilityDate": "2026-03-03",
+    "availabilityDays": ["Monday", "Wednesday", "Friday"],
     "consultationFee": 1000
   },
   {
@@ -44,7 +44,7 @@
     "experience": "8 Years",
     "registrationNumber": "BMDC-45678",
     "workingAt": "United Hospital",
-    "availabilityDate": "2026-03-04",
+    "availabilityDays": ["Tuesday", "Thursday", "Saturday"],
     "consultationFee": 700
   },
   {
@@ -56,7 +56,7 @@
     "experience": "11 Years",
     "registrationNumber": "BMDC-56789",
     "workingAt": "Popular Diagnostic Center",
-    "availabilityDate": "2026-03-05",
+    "availabilityDays": ["Monday", "Thursday", "Saturday"],
     "consultationFee": 600
   },
   {
@@ -68,7 +68,7 @@
     "experience": "9 Years",
     "registrationNumber": "BMDC-67890",
     "workingAt": "Evercare Hospital Dhaka",
-    "availabilityDate": "2026-03-06",
+    "availabilityDays": ["Monday", "Wednesday", "Friday"],
     "consultationFee": 750
   },
   {
@@ -80,7 +80,7 @@
     "experience": "13 Years",
     "registrationNumber": "BMDC-78901",
     "workingAt": "Labaid Hospital",
-    "availabilityDate": "2026-03-07",
+    "availabilityDays": ["Tuesday", "Thursday", "Saturday"],
     "consultationFee": 650
   },
   {
@@ -92,7 +92,7 @@
     "experience": "14 Years",
     "registrationNumber": "BMDC-89012",
     "workingAt": "National Institute of Neurosciences",
-    "availabilityDate": "2026-03-08",
+    "availabilityDays": ["Monday", "Wednesday", "Friday"],
     "consultationFee": 1200
   },
   {
@@ -104,7 +104,7 @@
     "experience": "16 Years",
     "registrationNumber": "BMDC-90123",
     "workingAt": "Bangabandhu Sheikh Mujib Medical University",
-    "availabilityDate": "2026-03-09",
+    "availabilityDays": ["Tuesday", "Thursday", "Saturday"],
     "consultationFee": 950
   },
   {
@@ -116,7 +116,7 @@
     "experience": "7 Years",
     "registrationNumber": "BMDC-11223",
     "workingAt": "Mind Talk Clinic",
-    "availabilityDate": "2026-03-10",
+    "availabilityDays": ["Monday", "Wednesday", "Friday"],
     "consultationFee": 850
   },
   {
@@ -128,19 +128,19 @@
     "experience": "18 Years",
     "registrationNumber": "BMDC-22334",
     "workingAt": "Ibn Sina Hospital",
-    "availabilityDate": "2026-03-11",
+    "availabilityDays": ["Tuesday", "Thursday", "Saturday"],
     "consultationFee": 1100
   },
   {
     "id": 12,
-    "image": "https://i.ibb.co.com/W4TdsKBQ/360-F-114892812-Va0-KWhvm-SUOo-YNEo-HCAOJ8u-YXz-Bi-D8v-Y.jpg",
+    "image": "https://i.ibb.co/W4TdsKBQ/360-F-114892812-Va0-KWhvm-SUOo-YNEo-HCAOJ8u-YXz-Bi-D8v-Y.jpg",
     "name": "Dr. Rafia Chowdhury",
     "education": "MBBS, FCPS (Ophthalmology)",
     "speciality": "Eye Specialist",
     "experience": "10 Years",
     "registrationNumber": "BMDC-33445",
     "workingAt": "Vision Eye Hospital",
-    "availabilityDate": "2026-03-12",
+    "availabilityDays": ["Monday", "Wednesday", "Friday"],
     "consultationFee": 700
   }
 ]
