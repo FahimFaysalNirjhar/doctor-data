@@ -8,7 +8,7 @@
     "experience": "12 Years",
     "registrationNumber": "BMDC-12345",
     "workingAt": "Dhaka Medical College Hospital",
-    "availabilityDays": ["Monday", "Wednesday", "Friday"],
+    "availabilityDays": ["Sunday", "Monday", "Wednesday", "Thursday", "Saturday"],
     "consultationFee": 800
   },
   {
@@ -20,7 +20,7 @@
     "experience": "10 Years",
     "registrationNumber": "BMDC-23456",
     "workingAt": "Square Hospital Ltd.",
-    "availabilityDays": ["Tuesday", "Thursday", "Saturday"],
+    "availabilityDays": ["Sunday", "Tuesday", "Wednesday", "Thursday", "Saturday"],
     "consultationFee": 900
   },
   {
@@ -32,7 +32,7 @@
     "experience": "15 Years",
     "registrationNumber": "BMDC-34567",
     "workingAt": "Apollo Hospitals Dhaka",
-    "availabilityDays": ["Monday", "Wednesday", "Friday"],
+    "availabilityDays": ["Sunday", "Monday", "Wednesday", "Friday", "Saturday"],
     "consultationFee": 1000
   },
   {
@@ -44,7 +44,7 @@
     "experience": "8 Years",
     "registrationNumber": "BMDC-45678",
     "workingAt": "United Hospital",
-    "availabilityDays": ["Tuesday", "Thursday", "Saturday"],
+    "availabilityDays": ["Sunday", "Tuesday", "Wednesday", "Thursday", "Friday"],
     "consultationFee": 700
   },
   {
@@ -56,7 +56,7 @@
     "experience": "11 Years",
     "registrationNumber": "BMDC-56789",
     "workingAt": "Popular Diagnostic Center",
-    "availabilityDays": ["Monday", "Thursday", "Saturday"],
+    "availabilityDays": ["Sunday", "Monday", "Thursday", "Friday", "Saturday"],
     "consultationFee": 600
   },
   {
@@ -68,7 +68,7 @@
     "experience": "9 Years",
     "registrationNumber": "BMDC-67890",
     "workingAt": "Evercare Hospital Dhaka",
-    "availabilityDays": ["Monday", "Wednesday", "Friday"],
+    "availabilityDays": ["Sunday", "Monday", "Wednesday", "Friday", "Saturday"],
     "consultationFee": 750
   },
   {
@@ -80,7 +80,7 @@
     "experience": "13 Years",
     "registrationNumber": "BMDC-78901",
     "workingAt": "Labaid Hospital",
-    "availabilityDays": ["Tuesday", "Thursday", "Saturday"],
+    "availabilityDays": ["Sunday", "Tuesday", "Wednesday", "Thursday", "Saturday"],
     "consultationFee": 650
   },
   {
@@ -92,7 +92,7 @@
     "experience": "14 Years",
     "registrationNumber": "BMDC-89012",
     "workingAt": "National Institute of Neurosciences",
-    "availabilityDays": ["Monday", "Wednesday", "Friday"],
+    "availabilityDays": ["Sunday", "Monday", "Wednesday", "Friday", "Saturday"],
     "consultationFee": 1200
   },
   {
@@ -104,7 +104,7 @@
     "experience": "16 Years",
     "registrationNumber": "BMDC-90123",
     "workingAt": "Bangabandhu Sheikh Mujib Medical University",
-    "availabilityDays": ["Tuesday", "Thursday", "Saturday"],
+    "availabilityDays": ["Sunday", "Tuesday", "Wednesday", "Thursday", "Saturday"],
     "consultationFee": 950
   },
   {
@@ -116,7 +116,7 @@
     "experience": "7 Years",
     "registrationNumber": "BMDC-11223",
     "workingAt": "Mind Talk Clinic",
-    "availabilityDays": ["Monday", "Wednesday", "Friday"],
+    "availabilityDays": ["Sunday", "Monday", "Wednesday", "Friday", "Saturday"],
     "consultationFee": 850
   },
   {
@@ -128,7 +128,7 @@
     "experience": "18 Years",
     "registrationNumber": "BMDC-22334",
     "workingAt": "Ibn Sina Hospital",
-    "availabilityDays": ["Tuesday", "Thursday", "Saturday"],
+    "availabilityDays": ["Sunday", "Tuesday", "Wednesday", "Thursday", "Saturday"],
     "consultationFee": 1100
   },
   {
@@ -140,7 +140,7 @@
     "experience": "10 Years",
     "registrationNumber": "BMDC-33445",
     "workingAt": "Vision Eye Hospital",
-    "availabilityDays": ["Monday", "Wednesday", "Friday"],
+    "availabilityDays": ["Sunday", "Monday", "Wednesday", "Friday", "Saturday"],
     "consultationFee": 700
   }
 ]
