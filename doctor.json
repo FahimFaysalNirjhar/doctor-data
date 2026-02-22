@@ -8,7 +8,7 @@
     "experience": "12 Years",
     "registrationNumber": "BMDC-12345",
     "workingAt": "Dhaka Medical College Hospital",
-    "availabilityDays": ["Sunday", "Monday", "Wednesday", "Thursday", "Saturday"],
+    "availabilityDays": [, "Monday", "Wednesday", "Thursday", "Saturday"],
     "consultationFee": 800
   },
   {
@@ -144,3 +144,4 @@
     "consultationFee": 700
   }
 ]
+
